@@ -1,7 +1,7 @@
 applications:
 - name: nodetryy123
   memory: 512M
-  path: .
+  path: ./dialog-tool-master
   domain: mybluemix.net
   host: nodetryy123
   instances: 1
