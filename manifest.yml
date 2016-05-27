@@ -1,0 +1,9 @@
+applications:
+- name: nodetry
+  memory: 512M
+  path: .
+  domain: mybluemix.net
+  host: nodetry
+  instances: 1
+  disk_quota: 1024M
+  
